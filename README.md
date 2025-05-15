@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satvik Sharma</h1>
-<p align="center">DevOps Engineer with a solid foundation in data structures and algorithms and a passion for automation and scalability. <br>Experienced in CI/CD, cloud infrastructure, and system reliability. <br>Solved 100+ problems on LeetCode and enjoy optimizing workflows. Excited to learn and collaborate on innovative AI/ML and cloud-native projects.</p>
+<p align="center"><pre>DevOps Engineer with a solid foundation in data structures and algorithms and a passion for automation and scalability.
+                  Experienced in CI/CD, cloud infrastructure, and system reliability. Solved 100+ problems on LeetCode and enjoy optimizing 
+                  workflows. Excited to learn and collaborate on innovative AI/ML and cloud-native projects.</pre></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satvikpy&label=Profile%20views&color=0e75b6&style=flat" alt="satvikpy" /> </p>
 
